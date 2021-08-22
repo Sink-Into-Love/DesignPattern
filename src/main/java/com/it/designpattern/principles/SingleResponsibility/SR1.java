@@ -16,7 +16,7 @@ public class SR1 {
 }
 
 /**
- *
+ * 违反单一职责原则
  */
 class Vehicle {
 

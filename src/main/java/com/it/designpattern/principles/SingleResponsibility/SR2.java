@@ -17,7 +17,7 @@ public class SR2 {
 
 /**
  * 遵守单一职责原则
- * 类分解，改动大，花销大
+ * 类分解，改动、花销较大
  */
 class AirVehicle {
 
